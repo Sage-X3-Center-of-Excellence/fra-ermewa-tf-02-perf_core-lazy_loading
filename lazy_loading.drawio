@@ -25,7 +25,7 @@
             <mxPoint x="150" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9P4O5lqwGNktBoMZYdDR-19" value="AINF= Information partagée par toutes les instances d&#39;une même classe&lt;br&gt;=&amp;gt; Pilotage du comportement AREAD (BEFORE)/AINIT/ACONTROL pour toutes les instances d&#39;une même classe.&lt;br&gt;=&amp;gt; Comportement de classe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9P4O5lqwGNktBoMZYdDR-19" value="AINF= Information partagée par toutes les instances d&#39;une même classe, peut-être une autre structure.&lt;br&gt;=&amp;gt; Pilotage du comportement AREAD (BEFORE)/AINIT/ACONTROL pour toutes les instances d&#39;une même classe.&lt;br&gt;=&amp;gt; Comportement de classe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="490" y="10" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9P4O5lqwGNktBoMZYdDR-20" value="1..n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -70,8 +70,8 @@
         <mxCell id="9P4O5lqwGNktBoMZYdDR-33" value="AINF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="354" y="70" width="46" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9P4O5lqwGNktBoMZYdDR-34" value="Class AINFO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="347" y="30" width="60" height="30" as="geometry" />
+        <mxCell id="9P4O5lqwGNktBoMZYdDR-34" value="Class AINFO = partagé et gardé" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="20" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9P4O5lqwGNktBoMZYdDR-36" value="Class SORDER02" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="570" y="100" width="130" height="130" as="geometry" />
